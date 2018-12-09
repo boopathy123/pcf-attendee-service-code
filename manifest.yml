@@ -6,5 +6,5 @@ applications:
   memory: 768M
   instances: 1
   buildpack: java_buildpack
-#  services:
-#  - attendee-mysql
+ services:
+  - attendee-mysql
